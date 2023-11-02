@@ -1,0 +1,2 @@
+org.example.repository.CryptoRepositoryOne
+repository.CryptoRepositoryTwo
